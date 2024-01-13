@@ -1,2 +1,3 @@
 # JavaScript-learning
- A JavaScript course series
+Auther :- Krishna Kumar
+A JavaScript course series
